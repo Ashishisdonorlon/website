@@ -1,0 +1,99 @@
+body{
+margin: 0;
+padding: 0;
+background-image: url("2.png");
+position: fixed;
+font-family: "Times New Roman";
+}
+a{
+	text-decoration: none;
+	color: #FF4600;
+}
+.Anime{
+	font-size: 70px;
+	margin: 15px;
+	color: #00FF33;
+	}
+.des{
+	font-size: 50px;
+	margin-top: 3%;
+	color: #FFFFFF;
+	margin-right: 120px;
+}
+.uidiv{
+	padding: 10px;
+	color: white;
+	width:100%;
+	height: 100%;
+	margin-top: 20px;
+}
+.lidiv{
+	padding: 10px;
+	color: white;
+	width:100%;
+	text-align: center;
+	height: 170px;
+	
+}
+.buttondiv{
+	margin-top: 20px;
+	width: 100%;
+	height: 50px;
+	padding: 10px;
+}
+.btn1{
+	width: 150px;
+	height: 100%;
+	border: 2px solid black;
+	margin-left: 25em;
+	opacity: 10px;
+	background: #6F9FFF;
+	border-radius: 10px;
+	font-weight: bold;
+	padding: 10px;
+}
+.btn2{
+	width: 100px;
+	height: 100%;
+	padding: 10px;
+	border: 2px solid black;
+	top:50%; 
+	font-weight: bold;
+    left:50%;
+    background: #6F9FFF;
+	border-radius: 10px;
+}
+button:hover{
+	background-color: #0071FF;
+}
+li{
+	margin: 20px;
+	font-size: 30px;
+	align-items: center;
+	list-style-type: none;
+	text-align: left;
+	display: inline;
+	background-color: none;
+	padding: 10px;
+	margin-left: 10%;
+}
+li:hover{
+	background-color: white;
+	padding: 5px;
+}
+p{
+	font-size: 30px;
+	align: justify;
+}
+img{
+	border-radius: 100px;
+	width: 160px;
+	height: 160px;
+	margin-left: 120px;
+}
+
+
+
+
+
+	
